@@ -16,5 +16,7 @@ export default defineConfig({
     embeddedScreenshots: true,
     inlineAssets: true,
     saveAllAttempts: false,
+    html: true,
+    json: true,
   },
 });
